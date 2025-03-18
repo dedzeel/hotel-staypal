@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Hollywood Twin Room";
+}
+
+<div class="room-detail-container">
+    <div class="room-image-section">
+        <img src="~/css/images/HollywoodTwin.jpg" alt="Hollywood Twin Room">
+    </div>
+
+    <div class="room-info-section">
+        <h1>Hollywood Twin Room</h1>
+        <div class="rating">4.9/5 <span class="rating-text">Exceptional</span></div>
+        <p class="description">
+            Hollywood Twin Rooms offer two twin beds placed together, ideal for couples or companions seeking flexibility.
+        </p>
+
+        <ul class="features">
+            <li>Size: Comfortable and stylish.</li>
+            <li>Bed: Two twin beds joined together.</li>
+            <li>Views: Stunning cityscape at night.</li>
+            <li>Furnishings: Modern elegance with seating area.</li>
+            <li>Extras: Premium linens and lighting.</li>
+        </ul>
+
+        <div class="pricing">
+            <p class="old-price">PHP 2,400</p>
+            <p class="new-price">PHP 2,199</p>
+            <p class="tax-info">Total (incl. taxes & fees): PHP 1,950</p>
+            <button class="availability-btn">See Availability</button>
+        </div>
+    </div>
+</div>
+<style>
+    .room-detail-container {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 1000px;
+        margin: 40px auto;
+        background: white;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .room-image-section img {
+        width: 100%;
+        max-height: 400px;
+        object-fit: cover;
+    }
+
+    .room-info-section {
+        padding: 20px;
+        flex: 1;
+    }
+
+    .rating {
+        font-weight: bold;
+        font-size: 18px;
+        color: #0b3c5d;
+        margin: 10px 0;
+    }
+
+    .description {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .features {
+        list-style: disc;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+
+    .pricing .old-price {
+        text-decoration: line-through;
+        color: #888;
+    }
+
+    .pricing .new-price {
+        font-size: 24px;
+        color: #0b3c5d;
+        font-weight: bold;
+    }
+
+    .tax-info {
+        font-size: 14px;
+        color: #555;
+        margin-bottom: 10px;
+    }
+
+    .availability-btn {
+        background-color: #0b3c5d;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+        .availability-btn:hover {
+            background-color: #094064;
+        }
+</style>
+

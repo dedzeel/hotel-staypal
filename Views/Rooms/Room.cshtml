@@ -1,0 +1,185 @@
+﻿@{
+    ViewData["Title"] = "Rooms";
+}
+
+<div class="room-container">
+    <h2 class="section-title">Select Rooms</h2>
+
+    <div class="room-grid">
+        <div class="room-card">
+            <a href="/Rooms/QueenRoom" style="text-decoration: none; color: inherit;">
+                <div class="badge">Popular Choice</div>
+                <img src="~/css/images/queen.jpg" alt="Queen Room">
+                <div class="room-info">
+                    <p>Queen Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+
+        <div class="room-card">
+            <a href="/Rooms/SingleRoom" style="text-decoration: none; color: inherit;">
+                <img src="~/css/images/single.jpg" alt="Single Room">
+                <div class="room-info">
+                    <p>Single Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+
+        <div class="room-card">
+            <a href="/Rooms/DeluxeRoom" style="text-decoration: none; color: inherit;">
+                <img src="~/css/images/deluxe.jpg" alt="Deluxe Room">
+                <div class="room-info">
+                    <p>Deluxe Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+
+        <div class="room-card">
+            <a href="/Rooms/FamilyRoom" style="text-decoration: none; color: inherit;">
+                <img src="~/css/images/fam.jpg" alt="Family Room">
+                <div class="room-info">
+                    <p>Family Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+
+        <div class="room-card">
+            <a href="/Rooms/QuadRoom" style="text-decoration: none; color: inherit;">
+                <img src="~/css/images/quad.jpg" alt="Quad Room">
+                <div class="room-info">
+                    <p>Quad Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+
+        <div class="room-card">
+            <a href="/Rooms/TripleRoom" style="text-decoration: none; color: inherit;">
+                <img src="~/css/images/triple.jpg" alt="Triple Room">
+                <div class="room-info">
+                    <p>Triple Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+
+        <div class="room-card">
+            <a href="/Rooms/ConnectingRoom" style="text-decoration: none; color: inherit;">
+                <img src="~/css/images/connect.jpg" alt="Connecting Room">
+                <div class="room-info">
+                    <p>Connecting Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+
+        <div class="room-card">
+            <a href="/Rooms/HollywoodRoom" style="text-decoration: none; color: inherit;">
+                <div class="badge">Popular Choice</div>
+                <img src="~/css/images/twin.jpg" alt="Hollywood Twin Room">
+                <div class="room-info">
+                    <p>Hollywood Twin Rooms</p>
+                    <span class="arrow">></span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #d9d9d9;
+    }
+
+    .room-container {
+        max-width: 1200px;
+        margin: 40px auto;
+        padding: 50px;
+    }
+
+    .section-title {
+        background-color: #0b3c5d;
+        color: white;
+        padding: 12px 24px;
+        border-radius: 12px;
+        font-size: 26px;
+        margin-bottom: 30px;
+        text-align: center;
+        display: inline-block;
+    }
+
+    .room-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Fixed 4 columns */
+        gap: 24px;
+    }
+
+    .room-card {
+        background-color: white;
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .room-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+        }
+
+        .room-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+    .room-info {
+        padding: 15px 16px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-weight: 600;
+        font-size: 17px;
+        color: #333;
+    }
+
+    .arrow {
+        font-size: 20px;
+        color: #666;
+    }
+
+    .badge {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background-color: #0b3c5d;
+        color: white;
+        padding: 6px 12px;
+        border-radius: 8px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .footer {
+        text-align: center;
+        margin-top: 50px;
+        padding: 20px;
+        background-color: #7d7d7d;
+        color: white;
+        font-size: 14px;
+        border-top: 1px solid #ccc;
+    }
+
+        .footer a {
+            color: #b3e5fc;
+            text-decoration: none;
+        }
+
+</style>

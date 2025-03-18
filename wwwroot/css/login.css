@@ -1,0 +1,162 @@
+﻿/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: #333333;
+}
+
+/* Top Navigation Bar */
+.navbar {
+    width: 100%;
+    background-color: #a9a9a9; /* Dark gray */
+    padding: 15px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+    .navbar .brand {
+        font-size: 20px;
+        font-weight: bold;
+        color: #333; /* Darker gray */
+    }
+
+    .navbar .nav-links {
+        display: flex;
+        gap: 150px;
+    }
+
+        .navbar .nav-links a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+
+            .navbar .nav-links a:hover {
+                color: #696969; /* Dim gray */
+            }
+
+/* Centering Login Container */
+.main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    padding-top: 100px; /* To prevent overlap with navbar */
+}
+
+/* Login Container */
+.login-container {
+    display: flex;
+    width: 70%;
+    height: 70vh;
+    background: #777777 ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Left Side - Image */
+.login-image {
+    width: 60%;
+    background: url('/images/gold.jpg') center/cover no-repeat;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(211, 211, 211, 0.5); /* Light gray overlay */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4.5rem;
+    color: #333;
+}
+
+.highlight {
+    color: white;
+}
+
+/* Right Side - Form */
+.login-form {
+    width: 50%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #d3d3d3; /* Light gray */
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+/* Input Fields */
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #444;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #777;
+    border-radius: 5px;
+    background: #f0f0f0;
+}
+
+/* Login Button */
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background: #808080; /* Gray button */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+    .login-btn:hover {
+        background: #696969; /* Dim gray */
+    }
+
+/* Create Account */
+.create-account {
+    text-align: center;
+    margin-top: 10px;
+}
+
+    .create-account a {
+        color: #333;
+        text-decoration: none;
+        font-weight: bold;
+    }

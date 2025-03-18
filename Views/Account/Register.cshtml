@@ -1,0 +1,63 @@
+@{
+    ViewData["Title"] = "Register";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel 101 - Register</title>
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <div class="brand">StayPal</div>
+        <div class="nav-links">
+            <a href="~/Home/Index">Home</a>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="login-container">
+            <div class="login-image">
+                <div class="overlay">
+                    <h1><span class="highlight">Stay</span> Pal</h1>
+                </div>
+            </div>
+            <div class="login-form">
+                <h2>Create an Account</h2>
+
+                @if (ViewBag.ErrorMessage != null)
+                {
+                <p style="color: red; text-align: center;">@ViewBag.ErrorMessage</p>
+                }
+
+                <form method="post" asp-controller="Account" asp-action="Register">
+                    <div class="input-group">
+                        <label for="username">Username</label>
+                        <input type="text" name="username" id="username" placeholder="Choose a username" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="email">Email</label>
+                        <input type="email" name="email" id="email" placeholder="Enter your email" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="password">Password</label>
+                        <input type="password" name="password" id="password" placeholder="Create a password" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="confirmPassword">Confirm Password</label>
+                        <input type="password" name="confirmPassword" id="confirmPassword" placeholder="Confirm your password" required>
+                    </div>
+                    <button type="submit" class="login-btn">Register</button>
+                    <p class="create-account">Already have an account? <a href="~/Account/Login">Login here</a></p>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

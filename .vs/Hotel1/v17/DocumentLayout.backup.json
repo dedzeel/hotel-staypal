@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\Hotel1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\tripleroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\tripleroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\singleroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\singleroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\queenroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\queenroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\quadroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\quadroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\hollywoodroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\hollywoodroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\familyroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\familyroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\deluxeroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\deluxeroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\connectingroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\connectingroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\rooms\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\rooms\\room.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|c:\\users\\owner\\desktop\\hotel1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72494750-3F0F-47B7-2748-827675158854}|ELNET01.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HollywoodRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\HollywoodRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\HollywoodRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\HollywoodRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\HollywoodRoom.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:47:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectingRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\ConnectingRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\ConnectingRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\ConnectingRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\ConnectingRoom.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:47:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripleRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\TripleRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\TripleRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\TripleRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\TripleRoom.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwF8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:46:37.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuadRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\QuadRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\QuadRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\QuadRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\QuadRoom.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:46:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FamilyRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\FamilyRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\FamilyRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\FamilyRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\FamilyRoom.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:41:55.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeluxeRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\DeluxeRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\DeluxeRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\DeluxeRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\DeluxeRoom.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:39:17.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SingleRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\SingleRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\SingleRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\SingleRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\SingleRoom.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:35:00.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueenRoom.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\QueenRoom.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\QueenRoom.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\QueenRoom.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\QueenRoom.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:06:42.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:04:07.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\Room.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\Room.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Rooms\\Room.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\Room.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:01:37.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T12:09:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Hotel1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Hotel1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:55:49.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
